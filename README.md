@@ -44,4 +44,13 @@ An example call would be as such:
         file.close()
 
         print(data_in_file)
+        
+        
+        
+        
+        
+        <img width="888" alt="Screen Shot 2022-07-26 at 3 13 47 PM" src="https://user-images.githubusercontent.com/81490641/181108273-b8a8c8a4-bf75-41b4-9a84-4d6bbc58cf1d.png">
+
+        
+ 
   
