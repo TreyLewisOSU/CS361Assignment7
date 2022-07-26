@@ -2,7 +2,7 @@
 
 NOTE: My Partner said they were using the Python Language for their Project. 
 
-The examples provided are given in the Python Programming Language. The MicroService program was written in the Python Programming language as well. Because it was designed to process user input into a Python Dictioanry Syntax, it should be used with other services that can utitilize this Python syntax structure. 
+The examples provided are given in the Python Programming Language. The MicroService program was written in the Python Programming language as well. Because it was designed to process user input into a Python Dictioanry Syntax, while of Class String, it should be used with other services that can utitilize this Python syntax structure. 
 
 How To Request Data: Data can be recieved by having the "information_transfer.py" file running in the background in tandem with the application. 
 To request the microservice to recieve user data and process it, have a call that places the user's data inside a file called "user_wardrobe_input.txt". It is BEST to have the program sleep for 0.25 seconds before this call.
@@ -35,7 +35,7 @@ An example call would be as such:
 
 
 
-How To Recieve Data: Data can be requested by having the user open the text file "user_wardrobe_dictionary_form.txt" and reading the information from that file. The "user_wardrobe_variable_form.txt" file will contain only the user input, inputted as a dictionary variable for the Python programming language.
+How To Recieve Data: Data can be requested by having the user open the text file "user_wardrobe_dictionary_form.txt" and reading the information from that file. The "user_wardrobe_variable_form.txt" file will contain only the user input, inputted as a string variable, representing the dictionary type, for the Python programming language.
 
 An example call would be as such: 
 
