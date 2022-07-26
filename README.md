@@ -35,9 +35,9 @@ How To Recieve Data: Data can be requested by having the user open the text file
 
 An example call would be as such: 
 
-  file = open("user_wardrobe_dictionary_form.txt", "r")
-  data_in_file = file.readline()
-  file.close()
+        file = open("user_wardrobe_dictionary_form.txt", "r")
+        data_in_file = file.readline()
+        file.close()
 
-  print(data_in_file)
+        print(data_in_file)
   
