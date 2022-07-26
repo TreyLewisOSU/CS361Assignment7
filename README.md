@@ -1,6 +1,8 @@
 # CS361Assignment7
 
-NOTE: The examples provided are given in the Python Programming Language. The MicroService program was written in the Python Programming language as well. Because it was designed to process user input into a Python Dictioanry Syntax, it should be used with other services that can utitilize this Python syntax structure. 
+NOTE: My Partner said they were using the Python Language for their Project. 
+
+The examples provided are given in the Python Programming Language. The MicroService program was written in the Python Programming language as well. Because it was designed to process user input into a Python Dictioanry Syntax, it should be used with other services that can utitilize this Python syntax structure. 
 
 How To Request Data: Data can be recieved by having the "information_transfer.py" file running in the background in tandem with the application. 
 To request the microservice to recieve user data and process it, have a call that places the user's data inside a file called "user_wardrobe_input.txt". It is BEST to have the program sleep for 0.25 seconds before this call.
